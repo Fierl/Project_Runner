@@ -12,6 +12,11 @@
       <sprite>sprites\spr_runner</sprite>
       <sprite>sprites\spr_acid</sprite>
       <sprite>sprites\spr_rectangle</sprite>
+<<<<<<< HEAD
+=======
+      <sprite>sprites\spr_playerJump</sprite>
+      <sprite>sprites\spr_playerFall</sprite>
+>>>>>>> refs/remotes/origin/features
     </sprites>
     <sprites name="menu">
       <sprite>sprites\spr_start</sprite>
