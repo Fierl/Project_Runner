@@ -1,2 +1,6 @@
-# Project_Runner
-GML Game for "One Button Jam"
+# Work
+-jumping with running on platform
+-zeit stoppen
+-music
+-more obstacles
+
